@@ -1,0 +1,25 @@
+{
+  "name": "iron-icon-extractor",
+  "description": "Command Line tool for generating iron-iconset subsets .",
+  "main": "./bin/iron-icon-extractor.js",
+  "authors": [
+    "pik <alexander.maznev@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "polymer",
+    "iron-icons",
+    "shell"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "iron-icons": "^1.1.3"
+  }
+}
